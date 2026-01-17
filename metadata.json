@@ -1,0 +1,7 @@
+{
+  "name": "SnapConnect Pro: Ghost Crawler",
+  "description": "Snapchat discovery v4.0.0. High-speed pulse search engine with 100% gender precision and automated ingestion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
